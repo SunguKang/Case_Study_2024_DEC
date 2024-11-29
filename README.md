@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Case Study. You've made it to the final phase of our selection process, and this is your opportunity to showcase your expertise and analytical prowess. We are excited to see how you approach the tasks and the insights you can generate from the data provided. We wish you the best of luck and hope you find the challenge engaging!
+Welcome to our Case Study! You've made it to the final phase of our selection process, and this is your opportunity to showcase your expertise and analytical prowess. We are excited to see how you approach the tasks and the insights you can generate from the data provided. We wish you the best of luck and hope you find the challenge engaging!
 
 ## Assignment Overview
 
