@@ -43,11 +43,9 @@ Online sales have dominated the used car market for years, and it makes sense fo
 Now, it is your job to develop ideas that revolve around using big data and data science within eCommerce to boost online sales.
 
 
-1. Use your findings from Task 1 to provide strategic recommendations for each platform, focusing on aspects such as user experience, marketing strategies, and inventory management.
+1. Use your findings from Task 1 to provide strategic recommendations for each platform, focusing on aspects such as user experience and marketing strategies.
 
-2. Develop ideas that focus on data science and machine learning to enhance the digital customer journey on our car sales platforms.
-    - Identify the types of data that would be required to implement your ideas.
-    - Discuss potential limitations or challenges associated with your proposals.
+2. Develop ideas that focus on data science and machine learning to enhance the digital customer journey on our website and how would you reduce unnesarry user journey.
 
 
 Prepare a 20-25 minute presentation of your findings, dedicating  ~20 minutes to Task 1 and ~5 minutes for Task 2.
